@@ -25,8 +25,11 @@ __Algorithm__:
 6. Plot the Signals: Use Matplotlib to plot the message signal, carrier signal, and modulated signal.
 
  __Output__:
+ <img width="1572" height="1198" alt="image" src="https://github.com/user-attachments/assets/f98de3cc-013e-4a42-81ec-377d2616d478" />
+
 
 
  __Result__:
-
+The program successfully implemented Amplitude Modulation (AM) using Python's NumPy and Matplotlib libraries.
+<img width="1280" height="735" alt="image" src="https://github.com/user-attachments/assets/0c6de831-d803-46f1-a2a9-66fd73592dcc" />
 
